@@ -1,0 +1,3 @@
+Title: Don't use `SELECT *` in SQL queries
+Description: Don't use `SELECT *` in SQL queries. Always specify the columns you want to select. `COUNT(*)` is allowed.
+Path patterns: None (applies to all file types, as SQL queries may be embedded in code).
